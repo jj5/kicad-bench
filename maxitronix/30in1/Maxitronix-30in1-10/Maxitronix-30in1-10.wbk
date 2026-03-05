@@ -27,12 +27,12 @@
         {
           "color": "rgb(55, 126, 184)",
           "cursor1": {
-            "position": 0.03968380709145364,
+            "position": 0.04000759532175944,
             "x_format": "3~s",
             "y_format": "3~V"
           },
           "cursor2": {
-            "position": 0.04043055521301729,
+            "position": 0.040802481033118496,
             "x_format": "3~s",
             "y_format": "3~V"
           },
